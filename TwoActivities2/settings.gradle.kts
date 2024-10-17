@@ -18,6 +18,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
+//Sana mag pasukan na :<
 rootProject.name = "Two Activities"
 include(":app")
