@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_navbar_background.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\navbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_on_state.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\on_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_mode_night.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_mode_night.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_mode_day.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_mode_day.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_activity_offline.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_user.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_normal_background.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\normal_background.xml"
+    },
+    {
+        "merged": "com.example.wisetraveljournal.app-debug-4:/layout_activity_settings.xml.flat",
+        "source": "com.example.wisetraveljournal.app-main-6:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_japan.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\japan.png"
+    },
+    {
+        "merged": "com.example.wisetraveljournal.app-debug-4:/layout_activity_devs.xml.flat",
+        "source": "com.example.wisetraveljournal.app-main-6:/layout/activity_devs.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_navbar.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\navbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_activity_setup_journal.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\activity_setup_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_item_stroke.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\item_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_button_outline.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\button_outline.xml"
+    },
+    {
+        "merged": "com.example.wisetraveljournal.app-debug-4:/drawable_me.png.flat",
+        "source": "com.example.wisetraveljournal.app-main-6:/drawable/me.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_activity_journal_list.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\activity_journal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_journal_item.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\journal_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_apps.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\font_montserrat.ttf.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_camera.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_rounded_image.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\rounded_image.xml"
+    },
+    {
+        "merged": "com.example.wisetraveljournal.app-debug-4:/drawable_arrow_drop_down.xml.flat",
+        "source": "com.example.wisetraveljournal.app-main-6:/drawable/arrow_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.wisetraveljournal.app-debug-4:/drawable_arrow_drop_up.xml.flat",
+        "source": "com.example.wisetraveljournal.app-main-6:/drawable/arrow_drop_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_mode.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_otjaa_enhanced.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\otjaa_enhanced.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\drawable_ic_create.png.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\drawable\\ic_create.png"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juani\\Downloads\\gradle-8.7-all\\daemon\\8.7\\com.example.wisetraveljournal.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
