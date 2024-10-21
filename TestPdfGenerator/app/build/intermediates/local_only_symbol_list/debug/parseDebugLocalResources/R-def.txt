@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable gfglogo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img
+id ageTextView
+id btnDisplay
+id btnExport
+id btnInput
+id exportBtn
+id idBtnGeneratePDF
+id idBtnSave
+id idEdtAge
+id idEdtName
+id idListView
+id idTextView
+id nameTextView
+layout activity_data_list
+layout activity_export_pdf
+layout activity_main
+layout activity_user_input
+layout card_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TestPdfGenerator
+style Theme.TestPdfGenerator
+xml backup_rules
+xml data_extraction_rules
